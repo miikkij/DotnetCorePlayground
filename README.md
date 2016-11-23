@@ -22,3 +22,11 @@ Just a simple playground project to test dotnet core
 > dotnet build
 
 > dotnet test
+
+> cd ..\WebAPIApplication
+
+> dotnet build
+
+> dotnet run 
+
+> start http://localhost:5000/api/values 
