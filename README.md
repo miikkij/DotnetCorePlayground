@@ -21,4 +21,4 @@ Just a simple playground project to test dotnet core
 
 > dotnet build
 
-> dotnet run
+> dotnet test
