@@ -9,10 +9,10 @@ Just a simple playground project to test dotnet core
 [Visual Studio Code](https://code.visualstudio.com/Download)
 
 # Next steps to generate projects in their folder (src and test)
-> dotnet restore\
-> cd src\
-> dotnet build\
-> dotnet run\
-> cd ..\test\
-> dotnet build\
+> dotnet restore \
+> cd src \
+> dotnet build \
+> dotnet run \
+> cd ..\test \
+> dotnet build \
 > dotnet run
